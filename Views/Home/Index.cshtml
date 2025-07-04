@@ -1,8 +1,33 @@
 ﻿@{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Inicio de Sesion ";
 }
+<link rel ="stylesheet" href="site.css">
 
-<div>
-    <h1>Index</h1>
-    <p>Bienvenidos al sitio web de NombreProyecto</p>
-</div>
+
+    <h1>Inicio de Sesion</h1>
+
+ <form method="post" action = '@Url.Action("CompararUsuario", "Home")'>
+<p>
+ Usuario: <textarea name="RespSala" id="RespSalaId1" rows="1" cols="10">
+</textarea>
+<input type="submit" value=" Sumbit form">
+
+
+
+
+
+
+
+
+</p>
+  </form>
+   <form method="post" action = '@Url.Action("CompararUsuario", "Home")'>
+<p>
+ Contraseña: <textarea name="RespSala" id="RespSalaId1" rows="1" cols="10">
+</textarea>
+<input type="submit" value=" Sumbit form">
+
+</p>
+  </form>
+
+

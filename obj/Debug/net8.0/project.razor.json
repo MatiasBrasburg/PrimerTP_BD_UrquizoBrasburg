@@ -19349,6 +19349,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "z:\\2025\\Prog II\\PrimerTP_BD_UrquizoBrasburg\\Views\\Home\\InfoIntegrantes.cshtml",
+      "TargetPath": "Views\\Home\\InfoIntegrantes.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "z:\\2025\\Prog II\\PrimerTP_BD_UrquizoBrasburg\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"

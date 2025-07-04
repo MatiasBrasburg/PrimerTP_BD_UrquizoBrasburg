@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PrimerTP_BD_UrquizoBrasburg")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1ed85d833eaae0d41f70df60cbe8ffb36c60624")]
 [assembly: System.Reflection.AssemblyProductAttribute("PrimerTP_BD_UrquizoBrasburg")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PrimerTP_BD_UrquizoBrasburg")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
